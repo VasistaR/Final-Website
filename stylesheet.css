@@ -4,5 +4,11 @@
   margin-right: auto;
 }
 body { 
-  background-image: url("pinkpattern.jpg");
+  background: url(assets/chevron.png) repeat 0 0;
+}
+h1, h6 {
+  font-family: "Junge";
+}
+h2, h3, h4, h5 {
+  font-family: "Noto Sans Thai Looped";
 }
