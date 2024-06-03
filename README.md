@@ -1,0 +1,1 @@
+This Github repository contains the code for the final project of the Principles of Web Design class at the Milpitas High School Digital Business Academy. It is a website about the United Nations Sustainable Development Goal or SDG #5 of gender equality.
